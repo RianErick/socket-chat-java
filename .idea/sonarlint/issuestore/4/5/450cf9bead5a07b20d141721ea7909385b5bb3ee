@@ -1,0 +1,8 @@
+
+
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(υ„θ8Ν¤Σªφ1J$355c9669-29df-4a40-942d-9386735f8dfc
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(΅’‚ϋÿÿÿÿ8Ρ¤Σªφ1J$464bdf4c-8e18-4c7d-bd1d-108bf17c42d3
+m	java:S106"+Replace this use of System.out by a logger.(έε‘µ8Χ¤Σªφ1J$43b8317c-d747-43fc-9df1-ccf5cbd02dfb
+r	java:S106"+Replace this use of System.out by a logger.(εωψÿÿÿÿÿ8Ψ¤Σªφ1J$ffb84c25-706a-4375-a8bb-2bb43c67f74c
+m	java:S1068"+Replace this use of System.out by a logger.(Υπ«8γ¤Σªφ1J$119ded5a-a8ec-4f75-844f-f57030714d52
